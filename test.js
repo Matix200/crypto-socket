@@ -1,6 +1,6 @@
 cryptoSocket = require("crypto-socket");
 
-cryptoSocket.start();
+cryptoSocket.start("bitfinex","ETHBTC")
 
 setInterval(
   function(){
