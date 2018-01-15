@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/redcap3000/crypto-socket"
+    "url": "https://github.com/Matix200/crypto-socket"
   },
   "keywords": [
     "crypto",
@@ -32,7 +32,7 @@
   "author": "Ronaldo Barbachano",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/redcap3000/crypto-socket/issues"
+    "url": "https://github.com/Matix200/crypto-socket/issues"
   },
-  "homepage": "https://github.com/redcap3000/crypto-socket"
+  "homepage": "https://github.com/Matix200/crypto-socket"
 }
